@@ -7,8 +7,8 @@ storage:
     database: deep_learning
 
   streaming:
-    - name: vel.storage.streaming.visdom
-    - name: vel.storage.streaming.stdout
+#    - name: vel.storage.streaming.visdom
+     - name: vel.storage.streaming.stdout
 
 
 checkpoint_strategy:

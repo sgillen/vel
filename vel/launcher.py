@@ -6,6 +6,8 @@ import sys
 from vel.internals.model_config import ModelConfig
 from vel.internals.parser import Parser
 
+import gym_ucsb_robolab
+
 
 def main():
     """ Paperboy entry point - parse the arguments and run a command """
